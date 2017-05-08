@@ -1,5 +1,3 @@
-# woocommerce-pagarme-rdstation
-
 # WooCommerce Pagar.me RD Station #
 **Contributors:** pagarme, claudiosanches, aledsz
 **Tags:** woocommerce, pagarme, payment, rdstation
