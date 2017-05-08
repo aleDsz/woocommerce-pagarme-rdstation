@@ -79,6 +79,7 @@ if ( ! class_exists( 'WC_Pagarme' ) ) :
 			include_once dirname( __FILE__ ) . '/includes/class-wc-pagarme-my-account.php';
 			include_once dirname( __FILE__ ) . '/includes/class-wc-pagarme-banking-ticket-gateway.php';
 			include_once dirname( __FILE__ ) . '/includes/class-wc-pagarme-credit-card-gateway.php';
+			include_once dirname( __FILE__ ) . '/includes/class-rdstation-api.php';
 		}
 
 		/**
