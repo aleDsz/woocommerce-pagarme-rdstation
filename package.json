@@ -1,0 +1,15 @@
+{
+	"name": "woocommerce-pagarme-rdstation",
+	"description": "Integração com do Pagar.me e o WooCommerce com o RD Station",
+	"version": "1.0.0",
+	"author": "Alexandre de Souza <alexandre@aledsz.com.br>",
+	"scripts": {
+		"start": "cd src && php -S localhost:8080",
+		"test": "cd test && php index.php"
+	},
+	"license": "GPL-2.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aledsz/woocommerce-pagarme-rdstation"
+	}
+}
